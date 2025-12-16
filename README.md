@@ -62,7 +62,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="Kubernetes"/><br><strong>Kubernetes</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60" alt="AWS"/><br><strong>AWS</strong>
+     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="60" alt="AWS"/><br><strong>AWS</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" alt="Kafka"/><br><strong>Kafka</strong>
@@ -133,10 +133,10 @@ Personal portfolio showcasing skills, projects, and contact details.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sameer-nadaf-logged/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="sameernadaf5761@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
