@@ -23,16 +23,16 @@
   <tr>
     <!-- Frontend -->
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5"/><br><strong>HTML</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" alt="HTML5"/><br><strong>HTML</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3"/><br><strong>CSS</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" alt="CSS3"/><br><strong>CSS</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/><br><strong>JavaScript</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React"/><br><strong>React</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="React"/><br><strong>React</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="Angular"/><br><strong>Angular</strong>
@@ -47,31 +47,28 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring"/><br><strong>Spring</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring Boot"/> <!-- Using Spring as placeholder for Boot --><br><strong>Spring Boot</strong>
-    </td>
-    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="60" alt="Hibernate"/><br><strong>Hibernate</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL"/><br><strong>MySQL</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL"/><br><strong>MySQL</strong>
     </td>
   </tr>
   <tr>
     <!-- Cloud & DevOps -->
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker"/><br><strong>Docker</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60" alt="Docker"/><br><strong>Docker</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="Kubernetes"/><br><strong>Kubernetes</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="60" alt="AWS"/><br><strong>AWS</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60" alt="AWS"/><br><strong>AWS</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" alt="Kafka"/><br><strong>Kafka</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="Postman"/><br><strong>Postman</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="Postman"/><br><strong>Postman</strong>
     </td>
   </tr>
   <tr>
@@ -88,23 +85,9 @@
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=swagger&logoColor=white" height="60" alt="REST API"/><br><strong>REST API</strong>
     </td>
-    <td align="center" width="120"></td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6DB33F&center=true&vCenter=true&width=800&lines=Frontend+%7C+Backend+%7C+DevOps;Building+Scalable+Applications;Clean+Code+%7C+Modern+Architecture;Passionate+Full-Stack+Developer" alt="Typing SVG" />
-</p>
-
-<!-- Added subtle hover animation for icons -->
-<style>
-  td img {
-    transition: transform 0.3s ease-in-out;
-  }
-  td img:hover {
-    transform: scale(1.2) rotate(5deg);
-  }
-</style>
 ---
 
 ## 📌 Featured Projects
