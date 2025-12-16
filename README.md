@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Sameer Nadaf
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Frontend+Focused+Engineer;Building+Responsive+Web+Apps;Learning+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Software+Engineer;Building+Responsive+Web+Apps;Learning+Every+Day" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | Frontend Focused | Clean UI Lover</h3>
+<h3 align="center">🚀 Full Stack Developer | Building Scalable Applications | Passionate About Coding
+</h3>
 
 ---
 
