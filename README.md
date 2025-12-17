@@ -91,138 +91,19 @@
 
 ---
 
-## 📌 Featured Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center">
 
-<!-- Project 1 -->
-<div align="center" style="border: 1px solid #e0e0e0; border-radius: 15px; padding: 10px; width: 280px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); transition: transform 0.3s;">
-  <img src="images/portfolio1.png" width="250" alt="Portfolio 1" style="border-radius: 10px; margin-bottom: 10px;">
-  <h3>Portfolio 1</h3>
-  <p>Hosted personal portfolio showcasing projects, skills, and contact details. Clean and professional layout.</p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Responsive-4CAF50?style=for-the-badge"/>
-  </p>
-  <p>
-    <a href="https://sameerm14.github.io/portfolio-training-project/" target="_blank">
-      <img src="https://img.shields.io/badge/Live-🌐-blue?style=for-the-badge"/>
-    </a>
-    <a href="ADD_REPO" target="_blank">
-      <img src="https://img.shields.io/badge/Code-💻-green?style=for-the-badge"/>
-    </a>
-  </p>
-</div>
-
-<!-- Project 2 -->
-<div align="center" style="border: 1px solid #e0e0e0; border-radius: 15px; padding: 10px; width: 280px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); transition: transform 0.3s;">
-  <img src="images/hportfolio.png" width="250" alt="Portfolio CSS Only" style="border-radius: 10px; margin-bottom: 10px;">
-  <h3>Portfolio (CSS & HTML)</h3>
-  <p>Fully responsive portfolio with animations using only HTML and CSS.</p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Responsive-4CAF50?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Animations-FF9800?style=for-the-badge"/>
-  </p>
-  <p>
-    <a href="https://www.iamsameer.in/" target="_blank">
-      <img src="https://img.shields.io/badge/Live-🌐-blue?style=for-the-badge"/>
-    </a>
-    <a href="ADD_REPO" target="_blank">
-      <img src="https://img.shields.io/badge/Code-💻-green?style=for-the-badge"/>
-    </a>
-  </p>
-</div>
-
-<!-- Project 3 -->
-<div align="center" style="border: 1px solid #e0e0e0; border-radius: 15px; padding: 10px; width: 280px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); transition: transform 0.3s;">
-  <img src="images/staymanage.png" width="250" alt="StayManage Fullstack" style="border-radius: 10px; margin-bottom: 10px;">
-  <h3>StayManage (Fullstack)</h3>
-  <p>Fullstack project for property management. Includes backend functionality, database integration, and interactive UI.</p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </p>
-  <p>
-    <a href="https://staymanagepg-1.onrender.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Live-🌐-blue?style=for-the-badge"/>
-    </a>
-    <a href="ADD_REPO" target="_blank">
-      <img src="https://img.shields.io/badge/Code-💻-green?style=for-the-badge"/>
-    </a>
-  </p>
-</div>
-
-<!-- Project 4 -->
-<div align="center" style="border: 1px solid #e0e0e0; border-radius: 15px; padding: 10px; width: 280px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); transition: transform 0.3s;">
-  <img src="images/samsungclone.png" width="250" alt="Samsung Clone" style="border-radius: 10px; margin-bottom: 10px;">
-  <h3>Samsung Website Clone</h3>
-  <p>Pixel-perfect responsive clone of Samsung’s official website with smooth CSS animations.</p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Responsive-4CAF50?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Animations-FF9800?style=for-the-badge"/>
-  </p>
-  <p>
-    <a href="https://sameerm14.github.io/samsung-website-clone/" target="_blank">
-      <img src="https://img.shields.io/badge/Live-🌐-blue?style=for-the-badge"/>
-    </a>
-    <a href="ADD_REPO" target="_blank">
-      <img src="https://img.shields.io/badge/Code-💻-green?style=for-the-badge"/>
-    </a>
-  </p>
-</div>
-
-<!-- Project 5 -->
-<div align="center" style="border: 1px solid #e0e0e0; border-radius: 15px; padding: 10px; width: 280px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); transition: transform 0.3s;">
-  <img src="images/todoapp.png" width="250" alt="Todo App" style="border-radius: 10px; margin-bottom: 10px;">
-  <h3>Todo App</h3>
-  <p>Simple task manager with modern UI, interactive features, and animations.</p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </p>
-  <p>
-    <a href="https://sameerm14.github.io/TodoApp/" target="_blank">
-      <img src="https://img.shields.io/badge/Live-🌐-blue?style=for-the-badge"/>
-    </a>
-    <a href="ADD_REPO" target="_blank">
-      <img src="https://img.shields.io/badge/Code-💻-green?style=for-the-badge"/>
-    </a>
-  </p>
-</div>
-
-<!-- Project 6 -->
-<div align="center" style="border: 1px solid #e0e0e0; border-radius: 15px; padding: 10px; width: 280px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); transition: transform 0.3s;">
-  <img src="images/Oecommerce.png" width="250" alt="E-commerce UI" style="border-radius: 10px; margin-bottom: 10px;">
-  <h3>E-commerce UI</h3>
-  <p>Responsive product UI clone with category listing, product cards, and clean layout.</p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </p>
-  <p>
-    <a href="https://sameerm14.github.io/ecommerce-product-ui/" target="_blank">
-      <img src="https://img.shields.io/badge/Live-🌐-blue?style=for-the-badge"/>
-    </a>
-    <a href="ADD_REPO" target="_blank">
-      <img src="https://img.shields.io/badge/Code-💻-green?style=for-the-badge"/>
-    </a>
-  </p>
-</div>
+| Project | Description | Tech & Links |
+|---------|-------------|--------------|
+| <img src="images/portfolio1.png" width="250" alt="Portfolio 1"> | **Portfolio 1**<br>Hosted personal portfolio showcasing projects, skills, and contact details. Clean and professional layout. | **Tech:** HTML, CSS, Responsive<br>[🌐 Live Demo](https://sameerm14.github.io/portfolio-training-project/) | [💻 Code](ADD_REPO) |
+| <img src="images/hportfolio.png" width="250" alt="Portfolio CSS Only"> | **Portfolio (CSS & HTML)**<br>Fully responsive portfolio with animations using only HTML and CSS. | **Tech:** HTML, CSS, Angular, Vercel, Responsive, Animations<br>[🌐 Live Demo](https://www.iamsameer.in/) | [💻 Code](ADD_REPO) |
+| <img src="images/staymanage.png" width="250" alt="StayManage Fullstack"> | **StayManage (Fullstack)**<br>Fullstack project for property management. Includes backend functionality, database integration, and interactive UI. | **Tech:** HTML, CSS, Angular, java, Springboot, Mysql, Render, Clever Cloud,<br>[🌐 Live Demo](https://staymanagepg-1.onrender.com/) | [💻 Code](ADD_REPO) |
+| <img src="images/samsungclone.png" width="250" alt="Samsung Clone"> | **Samsung Website Clone**<br>Pixel-perfect responsive clone of Samsung’s official website with smooth CSS animations. | **Tech:** HTML, CSS, Responsive, Animations<br>[🌐 Live Demo](https://sameerm14.github.io/samsung-website-clone/) | [💻 Code](ADD_REPO) |
+| <img src="images/todoapp.png" width="250" alt="Todo App"> | **Todo App**<br>Simple task manager with modern UI, interactive features, and animations. | **Tech:** HTML, CSS, JS<br>[🌐 Live Demo](https://sameerm14.github.io/TodoApp/) | [💻 Code](ADD_REPO) |
+| <img src="images/Oecommerce.png" width="250" alt="E-commerce UI"> | **E-commerce UI**<br>Responsive product UI clone with category listing, product cards, and clean layout. | **Tech:** HTML, CSS, JS<br>[🌐 Live Demo](https://sameerm14.github.io/ecommerce-product-ui/) | [💻 Code](ADD_REPO) |
 
 </div>
-
 
 ---
 
