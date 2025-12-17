@@ -102,7 +102,7 @@
 | <img src="images/staymanage.png" width="250" alt="StayManage Fullstack"> | **StayManage (Fullstack)**<br>Fullstack project for property management. Includes backend functionality, database integration, and interactive UI. | **Tech:** HTML, CSS, Angular, java, Springboot, Mysql, Render, Clever Cloud,<br>[🌐 Live Demo](https://staymanagepg-1.onrender.com/) | [💻 Code](ADD_REPO) |
 | <img src="images/samsungclone.png" width="250" alt="Samsung Clone"> | **Samsung Website Clone**<br>Pixel-perfect responsive clone of Samsung’s official website with smooth CSS animations. | **Tech:** HTML, CSS, Responsive, Animations<br>[🌐 Live Demo](https://sameerm14.github.io/samsung-website-clone/) | [💻 Code](ADD_REPO) |
 | <img src="images/todoapp.png" width="250" alt="Todo App"> | **Todo App**<br>Simple task manager with modern UI, interactive features, and animations. | **Tech:** HTML, CSS, JS<br>[🌐 Live Demo](https://sameerm14.github.io/TodoApp/) | [💻 Code](ADD_REPO) |
-| <img src="images/ecommerce.png" width="250" alt="E-commerce UI"> | **E-commerce UI**<br>Responsive product UI clone with category listing, product cards, and clean layout. | **Tech:** HTML, CSS, JS<br>[🌐 Live Demo](https://sameerm14.github.io/ecommerce-product-ui/) | [💻 Code](ADD_REPO) |
+| <img src="images/Oecommerce.png" width="250" alt="E-commerce UI"> | **E-commerce UI**<br>Responsive product UI clone with category listing, product cards, and clean layout. | **Tech:** HTML, CSS, JS<br>[🌐 Live Demo](https://sameerm14.github.io/ecommerce-product-ui/) | [💻 Code](ADD_REPO) |
 
 </div>
 
