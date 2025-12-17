@@ -93,28 +93,18 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Samsung Website Clone
-Responsive landing page inspired by Samsung's official website.
+<div align="center">
 
-- Built using **HTML & CSS only**
-- Fully responsive across devices
-- Focused on layout precision and UI polish
-- Deployed on **GitHub Pages**
+| Project | Description | Tech & Links |
+|---------|-------------|--------------|
+| <img src="images/portfolio1.png" width="250" alt="Portfolio 1"> | **Portfolio 1**<br>Hosted personal portfolio showcasing projects, skills, and contact details. Clean and professional layout. | **Tech:** HTML | CSS | Responsive<br>[🌐 Live Demo](ADD_LINK) | [💻 Code](ADD_REPO) |
+| <img src="images/portfolio.png" width="250" alt="Portfolio CSS Only"> | **Portfolio (CSS & HTML)**<br>Fully responsive portfolio with animations using only HTML and CSS. | **Tech:** HTML | CSS | Responsive | Animations<br>[🌐 Live Demo](ADD_LINK) | [💻 Code](ADD_REPO) |
+| <img src="images/staymanage.png" width="250" alt="StayManage Fullstack"> | **StayManage (Fullstack)**<br>Fullstack project for property management. Includes backend functionality, database integration, and interactive UI. | **Tech:** HTML | CSS | JS | Node.js | MongoDB<br>[🌐 Live Demo](ADD_LINK) | [💻 Code](ADD_REPO) |
+| <img src="images/samsung-clone.png" width="250" alt="Samsung Clone"> | **Samsung Website Clone**<br>Pixel-perfect responsive clone of Samsung’s official website with smooth CSS animations. | **Tech:** HTML | CSS | Responsive | Animations<br>[🌐 Live Demo](ADD_LINK) | [💻 Code](ADD_REPO) |
+| <img src="images/todo-app.png" width="250" alt="Todo App"> | **Todo App**<br>Simple task manager with modern UI, interactive features, and animations. | **Tech:** HTML | CSS | JS<br>[🌐 Live Demo](ADD_LINK) | [💻 Code](ADD_REPO) |
+| <img src="images/ecommerce.png" width="250" alt="E-commerce UI"> | **E-commerce UI**<br>Responsive product UI clone with category listing, product cards, and clean layout. | **Tech:** HTML | CSS | JS<br>[🌐 Live Demo](ADD_LINK) | [💻 Code](ADD_REPO) |
 
-🔗 Live Demo: ADD_LINK  
-📂 Repository: ADD_REPO  
-
----
-
-### 🔹 Portfolio Website
-Personal portfolio showcasing skills, projects, and contact details.
-
-- Clean & minimal professional design
-- Responsive layout
-- Hosted using GitHub Pages
-
-🔗 Live Demo: ADD_LINK  
-📂 Repository: ADD_REPO  
+</div>
 
 ---
 
