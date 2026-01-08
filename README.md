@@ -58,6 +58,9 @@
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60" alt="Docker"/><br><strong>Docker</strong>
     </td>
+    <td ign="center" width="120">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/render.svg" height="60" alt="Render"/><br><strong>Render</strong>
+    </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="Kubernetes"/><br><strong>Kubernetes</strong>
     </td>
