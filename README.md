@@ -38,8 +38,6 @@
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="Angular"/><br><strong>Angular</strong>
     </td>
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="React"/><br><strong>React</strong></td>
-  </tr>
   <tr>
     <!-- Backend -->
     <td align="center" width="120">
