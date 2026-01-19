@@ -104,7 +104,17 @@
 | <img src="images/movieflix.png" width="250" alt="Movieflix"> | **Movieflix**<br>Simple Movie manager with modern UI, Tmdb api setup, interactive features, and animations. | **Tech:** HTML, CSS, JS and React<br>[🌐 Live Demo](https://movieflixbysameer.netlify.app/) | [💻 Code](ADD_REPO) |
 | <img src="images/samsungclone.png" width="250" alt="Samsung Clone"> | **Samsung Website Clone**<br>Pixel-perfect responsive clone of Samsung’s official website with smooth CSS animations. | **Tech:** HTML, CSS, Responsive, Animations<br>[🌐 Live Demo](https://sameerm14.github.io/samsung-website-clone/) | [💻 Code](ADD_REPO) |
 | <img src="images/todoapp.png" width="250" alt="Todo App"> | **Todo App**<br>Simple task manager with modern UI, interactive features, and animations. | **Tech:** HTML, CSS, JS<br>[🌐 Live Demo](https://sameerm14.github.io/TodoApp/) | [💻 Code](ADD_REPO) |
-| <img src="images/Oecommerce.png" width="250" alt="E-commerce UI" target="blank"> | **E-commerce UI**<br>Responsive product UI clone with category listing, product cards, and clean layout. | **Tech:** HTML, CSS, JS<br>[🌐 Live Demo](https://sameerm14.github.io/ecommerce-product-ui/) | [💻 Code](ADD_REPO) |
+| 
+<img src="images/Oecommerce.png" width="250" alt="E-commerce UI"> 
+| 
+<strong>E-commerce UI</strong><br>
+Responsive product UI clone with category listing, product cards, and clean layout. 
+| 
+<strong>Tech:</strong> HTML, CSS, JS<br>
+<a href="https://sameerm14.github.io/ecommerce-product-ui/" target="_blank" rel="noopener noreferrer">🌐 Live Demo</a> 
+| 
+<a href="ADD_REPO" target="_blank" rel="noopener noreferrer">💻 Code</a> 
+|
 
 </div>
 
